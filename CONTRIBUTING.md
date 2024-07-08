@@ -32,6 +32,6 @@ Si deseas proponer un cambio:
 
 ## Preguntas
 
-Si tienes alguna pregunta adicional sobre cómo contribuir, puedes abrir un issue o contactar directamente a [tu_email@tu_universidad.edu](mailto:tu_email@tu_universidad.edu).
+Si tienes alguna pregunta adicional sobre cómo contribuir, puedes abrir un issue o contactar directamente a [ji.mariscal.2019@alumnos.urjc.es](mailto:ji.mariscal.2019@alumnos.urjc.es).
 
 ¡Gracias de nuevo por tu apoyo al proyecto!
