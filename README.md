@@ -11,6 +11,7 @@ El objetivo de este proyecto es investigar y comparar la eficacia de los desplie
 - `/src`: Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
 - `/data`: Incluye los datos generados y utilizados en las simulaciones.
 - `/docs`: Documentación adicional y recursos relevantes para el proyecto.
+- `/results`: Contiene los resultados de las simulaciones, incluyendo gráficas y figuras generadas.
 
 ## Instalación y Uso
 
