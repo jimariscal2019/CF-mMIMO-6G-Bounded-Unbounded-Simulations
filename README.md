@@ -14,14 +14,15 @@ El objetivo de este proyecto es investigar y comparar la eficacia de los desplie
 - `/results`: Contiene los resultados de las simulaciones, incluyendo gráficas y figuras generadas.
 
 ## Instalación y Uso
-
-Para utilizar este repositorio y reproducir los resultados obtenidos en el TFG, sigue estos pasos:
-1. Clona el repositorio: 
-`git clone https://github.com/tu-usuario/CF-mMIMO-6G-Bounded-Unbounded-Simulations.git`
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/CF-mMIMO-6G-Bounded-Unbounded-Simulations.git
+   ```
 2. Navega al directorio de scripts y ejecuta los archivos MATLAB pertinentes:
-`cd CF-mMIMO-6G-Bounded-Unbounded-Simulations/src`
- `matlab main.mlx`
-
+   ```bash
+   cd CF-mMIMO-6G-Bounded-Unbounded-Simulations/src
+   matlab main.mlx
+   ```
 
 ## Contribuciones
 
