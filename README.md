@@ -20,7 +20,7 @@ Para utilizar este repositorio y reproducir los resultados obtenidos en el TFG, 
 git clone https://github.com/tu-usuario/CF-mMIMO-6G-Bounded-Unbounded-Simulations.git
 2. Navega al directorio de scripts y ejecuta los archivos MATLAB pertinentes:
 cd CF-mMIMO-6G-Bounded-Unbounded-Simulations/src
-matlab <nombre_del_script>.m
+matlab main.mlx
 
 
 ## Contribuciones
